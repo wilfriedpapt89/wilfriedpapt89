@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wilfriedpapt89/wilfriedpapt89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25"/>](https://twitter.com/willArakaza#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/willArakaza#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="25"/>](https://www.linkedin.com/in/wilfried-bdi/#gh-dark-mode-only)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>](https://www.linkedin.com/in/wilfried-bdi/#gh-light-mode-only)
