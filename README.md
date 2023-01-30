@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][linkedIn]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][linkedIn]
 
-[linkedIn]: https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw](https://www.linkedin.com/in/wilfried-bdi
+[linkedIn]: https://www.linkedin.com/in/wilfried-bdi
