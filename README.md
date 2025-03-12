@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about : **Java Ecosystem**...
 - 📫 How to reach me: **Email me**...
 - 😄 Pronouns: **He, his**
-- ⚡ Fun fact: **I am surely the tallest Java dev in the Word, proove me wrong :-)**
+- ⚡ Fun fact: **I am surely the tallest Java dev in the World, proove me wrong :-)**
 
 
 ### Connect with me:
